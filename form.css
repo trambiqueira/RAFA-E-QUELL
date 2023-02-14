@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: pink;
+}
+
+#titulo {
+    font-family: sans-serif;
+    color: red;
+    margin-left: 40%;
+}
+
+#pergunta {
+    color: #8b0000   
+}
+
+input, select, textarea, button {
+    border-radius: 5px;
+}
+
+#ponto {
+    margin-bottom: 1em;
+}
+
+#love {
+    color: red;
+}
